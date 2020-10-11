@@ -1084,3 +1084,414 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.11-14.33.01:916][128]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinBACA05FC460E6D26011E698C09D8D02D.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
 [2020.10.11-14.33.01:931][128]AssetCheck: New page: Asset Save: Player_Paladin
 [2020.10.11-14.33.01:931][128]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.37.36:502][356]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.11-14.37.36:531][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.11-14.37.36:531][356]PIE: New page: PIE session: TestingLevel (11 Oct 2020, 16:37:36)
+[2020.10.11-14.37.36:531][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.37.36:534][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002702s)
+[2020.10.11-14.37.36:534][356]LogAIModule: Creating AISystem for world TestingLevel
+[2020.10.11-14.37.36:535][356]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2020.10.11-14.37.36:535][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingLevel.TestingLevel to /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel (0.003822s)
+[2020.10.11-14.37.36:576][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.10.11-14.37.36:577][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.11-14.37.36:577][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.11-14.37.36:577][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.11-14.37.36:578][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.11-14.37.36:578][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.11-14.37.36:578][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.11-14.37.36:578][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.11-14.37.36:578][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.11-14.37.36:578][356]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.11-14.37.36:578][356]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Name: Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Is Default: Yes
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: Channel Order:
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.11-14.37.36:587][356]LogAudioMixer: Display: 1: FrontRight
+[2020.10.11-14.37.36:595][356]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.37.36:596][356]LogInit: FAudioDevice initialized.
+[2020.10.11-14.37.36:620][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.37.36:620][356]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2020.10.11-14.37.36:621][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel up for play (max tick rate 0) at 2020.10.11-15.37.36
+[2020.10.11-14.37.36:621][356]LogWorld: Bringing up level for play took: 0.000505
+[2020.10.11-14.37.36:621][356]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.10.11-14.37.36:626][356]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingLevel 0.523
+[2020.10.11-14.37.43:088][120]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.37.43:089][120]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.37.43:089][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.37.43:089][120]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.37.43:102][120]LogSlate: Window 'DungeonsRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.11-14.37.43:108][120]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.37.43:109][120]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-14.37.43:109][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.37.43:117][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.11-14.37.43:123][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.37.43:160][120]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.37.43:167][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.10.11-14.37.43:190][122]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.10.11-14.37.46:809][547]BlueprintLog: New page: Compile Player_Paladin
+[2020.10.11-14.37.47:218][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.10.11-14.37.47:321][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2020.10.11-14.37.47:348][553]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinF7387C3C40EFBE4B1B82FE965EB3E717.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2020.10.11-14.37.47:366][553]AssetCheck: New page: Asset Save: Player_Paladin
+[2020.10.11-14.37.47:366][553]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.38.07:342][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.38.31:373][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Interfaces/INT_PlayerController.INT_PlayerController
+[2020.10.11-14.39.36:869][837]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.39.37:297][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.10.11-14.39.45:020][750]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.39.45:431][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.10.11-14.39.45:919][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.39.45:939][804]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonController3DE550AB44D7C4AC5EFD0FB5D654173A.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.39.45:955][804]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.39.45:956][804]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.41.58:130][230]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.41.58:545][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.10.11-14.41.58:981][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.41.58:999][278]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonControllerB3157F0041DB7EE3996D3BBD0AFA914A.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.41.59:013][278]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.41.59:013][278]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.42.26:673][154]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddMovementInput' [Element not found.]
+[2020.10.11-14.44.28:519][624]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.44.28:940][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.10.11-14.44.29:292][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.44.29:309][662]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonControllerD07886EF418868A7BE0BC0A6130F765D.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.44.29:325][662]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.44.29:325][662]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.44.49:115][468]BlueprintLog: New page: Compile INT_PlayerController
+[2020.10.11-14.44.49:161][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.10.11-14.44.49:652][522]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/INT_PlayerController2F2891694EC816825D7F49BC4BFFC75D.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Interfaces/INT_PlayerController.uasset'
+[2020.10.11-14.44.49:672][522]AssetCheck: New page: Asset Save: INT_PlayerController
+[2020.10.11-14.44.49:672][522]LogContentValidation: Display: Validating Blueprint /Game/Main/Interfaces/INT_PlayerController.INT_PlayerController
+[2020.10.11-14.45.06:428][465]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.45.06:854][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.10.11-14.45.07:362][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.45.07:383][521]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonController2A2077174BD0478CFD8A8FADE11C06E8.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.45.07:398][521]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.45.07:398][521]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.45.51:742][815]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.45.52:162][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.10.11-14.45.52:476][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.45.52:494][848]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonController22C0AA874FC65AD228F22FBC650366C0.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.45.52:509][848]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.45.52:509][848]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.46.50:853][  8]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.46.51:263][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.10.11-14.46.51:457][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.46.51:474][ 27]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonControllerA1DFDBAB4232F63C8D94539F8CEA320E.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.46.51:489][ 27]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.46.51:489][ 27]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.49.08:604][188]BlueprintLog: New page: Compile Player_Paladin
+[2020.10.11-14.49.09:039][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.10.11-14.49.09:383][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2020.10.11-14.49.09:412][219]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin5445D0584DC125BE217B3191DE117997.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2020.10.11-14.49.09:428][219]AssetCheck: New page: Asset Save: Player_Paladin
+[2020.10.11-14.49.09:428][219]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.49.32:425][830]BlueprintLog: New page: Compile Player_Paladin
+[2020.10.11-14.49.32:866][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.10.11-14.49.33:166][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2020.10.11-14.49.33:192][858]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin9DB0D6FB4D7E32803E5B848932A8FAAE.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2020.10.11-14.49.33:212][858]AssetCheck: New page: Asset Save: Player_Paladin
+[2020.10.11-14.49.33:212][858]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.49.33:839][928]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.11-14.49.33:880][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.11-14.49.33:880][928]PIE: New page: PIE session: TestingLevel (11 Oct 2020, 16:49:33)
+[2020.10.11-14.49.33:880][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.49.33:883][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002483s)
+[2020.10.11-14.49.33:884][928]LogAIModule: Creating AISystem for world TestingLevel
+[2020.10.11-14.49.33:884][928]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2020.10.11-14.49.33:884][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingLevel.TestingLevel to /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel (0.003493s)
+[2020.10.11-14.49.33:921][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.11-14.49.33:922][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.11-14.49.33:922][928]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.11-14.49.33:922][928]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Name: Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Is Default: Yes
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: Channel Order:
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.11-14.49.33:931][928]LogAudioMixer: Display: 1: FrontRight
+[2020.10.11-14.49.33:940][928]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.49.33:941][928]LogInit: FAudioDevice initialized.
+[2020.10.11-14.49.33:968][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.49.33:968][928]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2020.10.11-14.49.33:969][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel up for play (max tick rate 0) at 2020.10.11-15.49.33
+[2020.10.11-14.49.33:969][928]LogWorld: Bringing up level for play took: 0.000481
+[2020.10.11-14.49.33:969][928]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.10.11-14.49.33:975][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingLevel -0.128
+[2020.10.11-14.49.40:585][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.49.40:585][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.49.40:586][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.49.40:586][713]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.49.40:599][713]LogSlate: Window 'DungeonsRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.11-14.49.40:604][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.49.40:605][713]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-14.49.40:605][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.49.40:613][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.11-14.49.40:619][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.49.40:658][713]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.49.40:665][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.10.11-14.49.40:689][715]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.10.11-14.49.42:755][956]BlueprintLog: New page: Compile Player_Paladin
+[2020.10.11-14.49.43:182][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.10.11-14.49.43:527][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2020.10.11-14.49.43:553][989]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin812FE21947ABF216E9E1B99FA82680BB.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2020.10.11-14.49.43:567][989]AssetCheck: New page: Asset Save: Player_Paladin
+[2020.10.11-14.49.43:567][989]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.50.15:800][835]BlueprintLog: New page: Compile PC_DungeonController
+[2020.10.11-14.50.16:221][835]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.10.11-14.50.16:591][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2020.10.11-14.50.16:613][875]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonControllerA14B55864CD68901EC5156B4668B7D00.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2020.10.11-14.50.16:628][875]AssetCheck: New page: Asset Save: PC_DungeonController
+[2020.10.11-14.50.16:628][875]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.SKEL_BP_EnemyBase_C:UserConstructionScript' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.SKEL_BP_EnemyBase_C' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase_C' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:946][608]LogMetaData: Removing '/Game/Main/AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Main/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.50.42:973][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/AI/BP_EnemyBase" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/BP_EnemyBase.uasset" SILENT=true
+[2020.10.11-14.50.42:985][608]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_EnemyBase23BBC2B24E68EE592ABC2E98C685D626.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/BP_EnemyBase.uasset'
+[2020.10.11-14.50.43:226][608]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.10.11-14.50.43:276][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.11-14.50.43:317][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.10.11-14.50.43:498][608]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2020.10.11-14.50.43:499][608]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/BP_EnemyBase.BP_EnemyBase
+[2020.10.11-14.51.21:704][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.SKEL_BP_Enemy_WormEasy_C:UserConstructionScript' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.SKEL_BP_Enemy_WormEasy_C' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy_C' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:705][571]LogMetaData: Removing '/Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Main/AI/BP_Enemy_WormEasy.PackageMetaData'
+[2020.10.11-14.51.21:743][571]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy465F40384B597781C2B9E3835B25C2EA.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.51.21:985][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.11-14.51.22:037][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.11-14.51.22:073][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.11-14.51.22:246][571]AssetCheck: New page: Asset Save: BP_Enemy_WormEasy
+[2020.10.11-14.51.22:247][571]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase_C' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.SKEL_BP_EnemyBase_C' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.SKEL_BP_EnemyBase_C:UserConstructionScript' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:197][182]LogMetaData: Removing '/Game/Main/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Main/AI/BP_EnemyBase.PackageMetaData'
+[2020.10.11-14.51.28:226][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_EnemyBase" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_EnemyBase.uasset" SILENT=true
+[2020.10.11-14.51.28:238][182]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_EnemyBase33A1E62D4E484421F4C99D933D631989.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_EnemyBase.uasset'
+[2020.10.11-14.51.28:461][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.10.11-14.51.28:512][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.10.11-14.51.28:548][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.10.11-14.51.28:583][182]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy2393F9C543BA7F54B5EEF7B1AAA3EE8D.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.51.28:781][182]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.11-14.51.28:781][182]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_EnemyBase.BP_EnemyBase
+[2020.10.11-14.51.28:781][182]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.51.39:074][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.51.39:422][689]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:1).
+[2020.10.11-14.52.00:816][925]LogTexture: Display: Building textures: T_Enemy_Clotworm_M (AutoDXT, 1024X1024)
+[2020.10.11-14.52.00:816][925]LogTexture: Display: Building textures: T_Enemy_Clotworm_D (AutoDXT, 1024X1024)
+[2020.10.11-14.52.00:816][925]LogTexture: Display: Building textures: T_Enemy_Clotworm__N (BC5, 2048X2048)
+[2020.10.11-14.52.00:816][925]LogMaterial: Display: Missing cached shader map for material M_Clot_Worm, compiling. 
+[2020.10.11-14.52.00:880][925]LogSkeletalMesh: Building Skeletal Mesh SK_Enemy_Clot_Worm...
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.10.11-14.52.00:888][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.10.11-14.52.00:888][925]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Clot_Worm/SK_Enemy_Clot_Worm.SK_Enemy_Clot_Worm
+[2020.10.11-14.52.05:365][180]BlueprintLog: New page: Compile BP_Enemy_WormEasy
+[2020.10.11-14.52.05:853][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.10.11-14.52.06:557][256]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy2F490786450DFA925926B6908AECEF42.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.52.06:571][256]AssetCheck: New page: Asset Save: BP_Enemy_WormEasy
+[2020.10.11-14.52.06:571][256]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.52.19:455][177]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.11-14.52.19:509][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.11-14.52.19:509][177]PIE: New page: PIE session: TestingLevel (11 Oct 2020, 16:52:19)
+[2020.10.11-14.52.19:509][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.52.19:512][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002488s)
+[2020.10.11-14.52.19:513][177]LogAIModule: Creating AISystem for world TestingLevel
+[2020.10.11-14.52.19:513][177]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2020.10.11-14.52.19:513][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingLevel.TestingLevel to /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel (0.003698s)
+[2020.10.11-14.52.19:560][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.11-14.52.19:571][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.11-14.52.19:571][177]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.11-14.52.19:571][177]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Name: Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Is Default: Yes
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: Channel Order:
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.11-14.52.19:581][177]LogAudioMixer: Display: 1: FrontRight
+[2020.10.11-14.52.19:590][177]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.52.19:591][177]LogInit: FAudioDevice initialized.
+[2020.10.11-14.52.19:598][177]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2020.10.11-14.52.19:599][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel up for play (max tick rate 0) at 2020.10.11-15.52.19
+[2020.10.11-14.52.19:605][177]LogWorld: Bringing up level for play took: 0.006819
+[2020.10.11-14.52.19:606][177]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.10.11-14.52.19:610][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingLevel -0.494
+[2020.10.11-14.52.24:295][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.52.24:295][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.52.24:295][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.52.24:295][638]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.52.24:295][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.52.24:296][638]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-14.52.24:297][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.52.24:323][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.11-14.52.24:330][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.52.24:376][638]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.52.24:378][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.52.24:384][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.10.11-14.52.24:407][639]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.10.11-14.52.41:278][892]BlueprintLog: New page: Compile BP_Enemy_WormEasy
+[2020.10.11-14.52.41:777][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.10.11-14.52.57:582][218]LogEditorTransaction: Undo Modify Component(s)
+[2020.10.11-14.52.57:648][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.11-14.53.33:386][427]BlueprintLog: New page: Compile BP_Enemy_WormEasy
+[2020.10.11-14.53.33:883][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.10.11-14.54.10:119][ 41]BlueprintLog: New page: Compile BP_Enemy_WormEasy
+[2020.10.11-14.54.10:639][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.10.11-14.54.11:042][ 81]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy5B258FDF43EA86DFB2AD0DAE7C4C1108.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.54.11:057][ 81]AssetCheck: New page: Asset Save: BP_Enemy_WormEasy
+[2020.10.11-14.54.11:057][ 81]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.54.30:160][337]BlueprintLog: New page: Compile BP_Enemy_WormEasy
+[2020.10.11-14.54.30:646][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.10.11-14.54.30:985][368]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasyBFFAFDC34477D2506E3271A4B3E352F9.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.54.31:000][368]AssetCheck: New page: Asset Save: BP_Enemy_WormEasy
+[2020.10.11-14.54.31:000][368]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.54.38:377][159]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.11-14.54.38:426][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.11-14.54.38:426][159]PIE: New page: PIE session: TestingLevel (11 Oct 2020, 16:54:38)
+[2020.10.11-14.54.38:426][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.54.38:429][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002797s)
+[2020.10.11-14.54.38:430][159]LogAIModule: Creating AISystem for world TestingLevel
+[2020.10.11-14.54.38:430][159]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.10.11-14.54.38:430][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingLevel.TestingLevel to /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel (0.003784s)
+[2020.10.11-14.54.38:479][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.11-14.54.38:481][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.11-14.54.38:481][159]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.11-14.54.38:481][159]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Name: Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Is Default: Yes
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: Channel Order:
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.11-14.54.38:490][159]LogAudioMixer: Display: 1: FrontRight
+[2020.10.11-14.54.38:498][159]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2020.10.11-14.54.38:499][159]LogInit: FAudioDevice initialized.
+[2020.10.11-14.54.38:508][159]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2020.10.11-14.54.38:508][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingLevel.TestingLevel up for play (max tick rate 0) at 2020.10.11-15.54.38
+[2020.10.11-14.54.38:509][159]LogWorld: Bringing up level for play took: 0.000671
+[2020.10.11-14.54.38:509][159]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.10.11-14.54.38:512][159]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestingLevel 0.409
+[2020.10.11-14.54.42:855][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.54.42:855][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.54.42:855][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.54.42:855][586]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestingLevel
+[2020.10.11-14.54.42:855][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.54.42:855][586]LogWorld: UWorld::CleanupWorld for TestingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-14.54.42:855][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.54.42:883][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.11-14.54.42:890][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.54.42:929][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.11-14.54.42:931][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-14.54.42:936][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.10.11-14.54.42:957][587]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.10.11-14.54.50:160][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/BP_EnemyBase.BP_EnemyBase
+[2020.10.11-14.54.50:553][255]LogRenderer: Reallocating scene render targets to support 1616x1256 Format 10 NumSamples 1 (Frame:1).
+[2020.10.11-14.55.12:068][314]BlueprintLog: New page: Compile BP_PlayerBase
+[2020.10.11-14.55.12:593][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.10.11-14.55.12:943][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2020.10.11-14.55.12:964][346]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase0940D53F4E1ADEF231A4BF8B96D378B0.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2020.10.11-14.55.12:978][346]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2020.10.11-14.55.12:978][346]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2020.10.11-14.55.14:511][513]BlueprintLog: New page: Compile BP_EnemyBase
+[2020.10.11-14.55.15:024][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2020.10.11-14.55.15:222][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_EnemyBase" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_EnemyBase.uasset" SILENT=true
+[2020.10.11-14.55.15:238][530]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_EnemyBase3087787C4AF784461AB76E84A9E627AF.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_EnemyBase.uasset'
+[2020.10.11-14.55.15:253][530]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2020.10.11-14.55.15:253][530]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_EnemyBase.BP_EnemyBase
+[2020.10.11-14.55.16:457][661]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-14.55.16:457][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-14.55.47:294][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.10.11-14.55.47:321][541]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/TestingLevel_Auto2B536673D4F368AFC420FC28B22F818F5.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Autosaves/Game/Maps/TestingLevel_Auto2.umap'
+[2020.10.11-14.55.47:323][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestingLevel' took 0.079
+[2020.10.11-14.55.47:323][541]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2020.10.11-14.55.47:323][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Paladin/Player_Paladin] ([1] browsable assets)...
+[2020.10.11-14.55.47:350][541]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin]
+[2020.10.11-14.55.47:350][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Paladin/Player_Paladin]
+[2020.10.11-14.55.47:379][541]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin_Auto26AE854F84A2074B0F98E6B8BCAC128CA.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Autosaves/Game/Main/Paladin/Player_Paladin_Auto2.uasset'
+[2020.10.11-14.55.47:381][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Paladin/Paladin_PrimaryAttack] ([1] browsable assets)...
+[2020.10.11-14.55.47:397][541]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Main/Paladin/Paladin_PrimaryAttack.Paladin_PrimaryAttack]
+[2020.10.11-14.55.47:397][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Paladin/Paladin_PrimaryAttack]
+[2020.10.11-14.55.47:416][541]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Paladin_PrimaryAttack_Auto23E708FFC4D4B6C845294A3B0B96A8A16.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Autosaves/Game/Main/Paladin/Paladin_PrimaryAttack_Auto2.uasset'
+[2020.10.11-14.55.47:417][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/AI/Worm/BP_Enemy_WormEasy] ([1] browsable assets)...
+[2020.10.11-14.55.47:429][541]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy]
+[2020.10.11-14.55.47:429][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/AI/Worm/BP_Enemy_WormEasy]
+[2020.10.11-14.55.47:450][541]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy_Auto24A917CB346D88C3B388702846B7B6DB1.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Autosaves/Game/Main/AI/Worm/BP_Enemy_WormEasy_Auto2.uasset'
+[2020.10.11-14.55.47:451][541]LogFileHelpers: Auto-saving content packages took 0.128
+[2020.10.11-14.56.53:000][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.10.11-14.56.53:080][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.11-14.56.53:097][ 62]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/TestingLevelA44BC25B4D0C824CBC5F0988F0BBF6AB.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Maps/TestingLevel.umap'
+[2020.10.11-14.56.53:131][ 62]LogFileHelpers: Saving map 'TestingLevel' took 0.099
+[2020.10.11-14.56.53:131][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2020.10.11-14.56.53:148][ 62]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinE154629348ECDEA4676CE5AB6D23B3DB.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2020.10.11-14.56.53:160][ 62]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Paladin_PrimaryAttackAA97CBDF4CF99287071A08AD1F74CBCC.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Paladin_PrimaryAttack.uasset'
+[2020.10.11-14.56.53:179][ 62]LogSavePackage: Moving '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Enemy_WormEasy40C88C05416AB2D9623FDDB943D5EBEF.tmp' to '../../../../../Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/AI/Worm/BP_Enemy_WormEasy.uasset'
+[2020.10.11-14.56.53:217][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.11-14.56.53:217][ 62]LogContentValidation: Display: Validating World /Game/Maps/TestingLevel.TestingLevel
+[2020.10.11-14.56.53:217][ 62]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2020.10.11-14.56.53:217][ 62]LogContentValidation: Display: Validating AnimMontage /Game/Main/Paladin/Paladin_PrimaryAttack.Paladin_PrimaryAttack
+[2020.10.11-14.56.53:217][ 62]LogContentValidation: Display: Validating Blueprint /Game/Main/AI/Worm/BP_Enemy_WormEasy.BP_Enemy_WormEasy
+[2020.10.11-14.58.09:245][695]Cmd: SELECT NONE
+[2020.10.11-14.58.09:836][748]LogSlate: Took 0.006847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.11-14.58.20:077][682]Cmd: r.Streaming.PoolSize 3500
+[2020.10.11-14.58.20:077][682]r.Streaming.PoolSize = "3500"
+[2020.10.11-14.58.20:138][688]LogContentStreaming: Texture pool size now 3500 MB
+[2020.10.11-14.58.23:321][971]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
