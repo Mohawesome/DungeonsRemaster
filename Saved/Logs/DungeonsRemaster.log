@@ -1316,3 +1316,202 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.23-20.03.47:701][467]LogFileHelpers: Saving map 'Level1' took 0.133
 [2021.01.23-20.03.47:718][467]AssetCheck: New page: Asset Save: Level1
 [2021.01.23-20.03.47:718][467]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.01.23-20.04.59:158][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Interfaces/INT_PlayerController.INT_PlayerController
+[2021.01.23-20.05.16:202][805]BlueprintLog: New page: Compile INT_PlayerController
+[2021.01.23-20.05.16:275][805]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2021.01.23-20.05.16:830][862]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/INT_PlayerController5B8CC3AE4BC0B11F41CC2A8A5D7F190B.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Interfaces/INT_PlayerController.uasset'
+[2021.01.23-20.05.16:846][862]AssetCheck: New page: Asset Save: INT_PlayerController
+[2021.01.23-20.05.16:846][862]LogContentValidation: Display: Validating Blueprint /Game/Main/Interfaces/INT_PlayerController.INT_PlayerController
+[2021.01.23-20.05.36:592][ 50]BlueprintLog: New page: Compile INT_PlayerController
+[2021.01.23-20.05.36:645][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2021.01.23-20.05.37:255][115]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/INT_PlayerController8CFF93F5407293DF58A42B8C745D3BCF.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Interfaces/INT_PlayerController.uasset'
+[2021.01.23-20.05.37:277][115]AssetCheck: New page: Asset Save: INT_PlayerController
+[2021.01.23-20.05.37:277][115]LogContentValidation: Display: Validating Blueprint /Game/Main/Interfaces/INT_PlayerController.INT_PlayerController
+[2021.01.23-20.05.43:306][167]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.05.43:307][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.06.07:550][674]BlueprintLog: New page: Compile PC_DungeonController
+[2021.01.23-20.06.07:623][674]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2021.01.23-20.06.08:183][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2021.01.23-20.06.08:215][733]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonController57D3DCFB4F23A0FB1CFFEEA36BDA5222.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2021.01.23-20.06.08:230][733]AssetCheck: New page: Asset Save: PC_DungeonController
+[2021.01.23-20.06.08:230][733]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2021.01.23-20.09.18:746][ 17]BlueprintLog: New page: Compile PC_DungeonController
+[2021.01.23-20.09.18:817][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2021.01.23-20.09.19:296][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/PC_DungeonController" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset" SILENT=true
+[2021.01.23-20.09.19:334][ 66]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/PC_DungeonControllerB5FBCD5C41F2C5FAFBA7CE8331EE9AD8.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/PC_DungeonController.uasset'
+[2021.01.23-20.09.19:350][ 66]AssetCheck: New page: Asset Save: PC_DungeonController
+[2021.01.23-20.09.19:350][ 66]LogContentValidation: Display: Validating Blueprint /Game/Main/PC_DungeonController.PC_DungeonController
+[2021.01.23-20.09.58:227][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.01.23-20.11.10:217][693]BlueprintLog: New page: Compile Player_Paladin
+[2021.01.23-20.11.10:293][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.01.23-20.11.10:881][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.01.23-20.11.10:914][735]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin0887D6D24ECB33260AC2759AA00E0018.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.01.23-20.11.10:930][735]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.01.23-20.11.10:930][735]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.01.23-20.11.50:953][879]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.01.23-20.11.51:055][879]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2021.01.23-20.11.51:523][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.01.23-20.11.51:548][927]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBaseAB049F814AC5170AEA3450AF01599F5C.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.01.23-20.11.51:565][927]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.01.23-20.11.51:565][927]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.01.23-20.12.04:543][802]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.01.23-20.12.04:628][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.01.23-20.12.05:093][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.01.23-20.12.05:118][849]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase878B62354FFAC4EA649479866B1A8FE3.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.01.23-20.12.05:133][849]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.01.23-20.12.05:133][849]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.01.23-20.12.25:550][997]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.01.23-20.12.25:636][997]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.01.23-20.12.26:095][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.01.23-20.12.26:125][ 43]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase8D9326BA456F4E6B090710971095BFBD.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.01.23-20.12.26:142][ 43]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.01.23-20.12.26:142][ 43]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.01.23-20.13.38:642][ 97]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.01.23-20.13.38:730][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.01.23-20.13.39:201][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.01.23-20.13.39:229][145]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBaseD975F9F34F019CE99A701E8C95BF3125.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.01.23-20.13.39:247][145]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.01.23-20.13.39:247][145]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.01.23-20.14.13:884][708]BlueprintLog: New page: Compile Player_Paladin
+[2021.01.23-20.14.13:964][708]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2021.01.23-20.14.14:443][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.01.23-20.14.14:478][753]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin1956AA83456567FA18D8C28AA0288B62.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.01.23-20.14.14:503][753]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.01.23-20.14.14:503][753]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.01.23-20.14.34:177][711]BlueprintLog: New page: Compile Player_Paladin
+[2021.01.23-20.14.34:250][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2021.01.23-20.14.34:710][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.01.23-20.14.34:742][755]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinFE549B444E2D49E080EF9A8B5C84AB42.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.01.23-20.14.34:757][755]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.01.23-20.14.34:757][755]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.01.23-20.14.38:527][932]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-20.14.38:539][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-20.14.38:539][932]PIE: New page: PIE session: Level1 (23 Jan 2021, 20:14:38)
+[2021.01.23-20.14.38:560][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.01.23-20.14.38:576][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015265s)
+[2021.01.23-20.14.38:576][932]LogAIModule: Creating AISystem for world Level1
+[2021.01.23-20.14.38:577][932]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2021.01.23-20.14.38:577][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.016354s)
+[2021.01.23-20.14.38:619][932]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.01.23-20.14.38:621][932]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-20.14.38:621][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-20.14.38:621][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-20.14.38:621][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-20.14.38:625][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-20.14.38:625][932]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-20.14.38:634][932]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.01.23-20.14.38:634][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.23-20.14.38:634][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.23-20.14.38:634][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.23-20.14.38:635][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.23-20.14.38:635][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.23-20.14.38:635][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.23-20.14.38:647][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.23-20.14.38:647][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.23-20.14.38:647][932]LogInit: FAudioDevice initialized.
+[2021.01.23-20.14.38:647][932]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2021.01.23-20.14.38:653][932]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.01.23-20.14.38:658][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.23-20.14.38
+[2021.01.23-20.14.38:659][932]LogWorld: Bringing up level for play took: 0.005579
+[2021.01.23-20.14.38:659][932]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.01.23-20.14.38:663][932]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.23-20.14.38:663][932]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.23-20.14.38:663][932]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.23-20.14.38:663][932]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.01.23-20.14.38:663][932]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.23-20.14.38:663][932]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2021.01.23-20.14.38:664][932]PIE: Server logged in
+[2021.01.23-20.14.38:665][932]PIE: Play in editor total start time 0.127 seconds.
+[2021.01.23-20.14.47:091][254]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.01.23-20.14.47:091][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.14.47:091][254]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.01.23-20.14.47:092][254]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.14.47:093][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.14.47:100][254]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.01.23-20.14.47:100][254]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.01.23-20.14.47:100][254]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.01.23-20.14.47:101][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-20.14.47:108][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.14.47:146][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.23-20.14.47:146][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.23-20.14.47:147][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.23-20.14.47:160][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.14.47:167][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.01.23-20.14.47:202][255]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.23-20.14.54:247][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.01.23-20.15.39:885][242]BlueprintLog: New page: Compile Player_Paladin
+[2021.01.23-20.15.39:975][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.01.23-20.15.40:385][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.01.23-20.15.40:421][269]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinA96D070E4E9FB49FAD0090A1DAC436E7.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.01.23-20.15.40:440][269]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.01.23-20.15.40:440][269]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.01.23-20.15.41:405][345]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-20.15.41:416][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-20.15.41:416][345]PIE: New page: PIE session: Level1 (23 Jan 2021, 20:15:41)
+[2021.01.23-20.15.41:417][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.01.23-20.15.41:432][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015557s)
+[2021.01.23-20.15.41:433][345]LogAIModule: Creating AISystem for world Level1
+[2021.01.23-20.15.41:433][345]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.01.23-20.15.41:433][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.016641s)
+[2021.01.23-20.15.41:476][345]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.01.23-20.15.41:480][345]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-20.15.41:480][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-20.15.41:480][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-20.15.41:481][345]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-20.15.41:481][345]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-20.15.41:484][345]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-20.15.41:484][345]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-20.15.41:492][345]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.01.23-20.15.41:492][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.23-20.15.41:492][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.23-20.15.41:493][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.23-20.15.41:493][345]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.23-20.15.41:493][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.23-20.15.41:493][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.23-20.15.41:505][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.23-20.15.41:505][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.23-20.15.41:505][345]LogInit: FAudioDevice initialized.
+[2021.01.23-20.15.41:505][345]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2021.01.23-20.15.41:513][345]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.01.23-20.15.41:518][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.23-20.15.41
+[2021.01.23-20.15.41:519][345]LogWorld: Bringing up level for play took: 0.005598
+[2021.01.23-20.15.41:519][345]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.01.23-20.15.41:523][345]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.23-20.15.41:523][345]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.23-20.15.41:523][345]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.23-20.15.41:523][345]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.01.23-20.15.41:523][345]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.23-20.15.41:523][345]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2021.01.23-20.15.41:524][345]PIE: Server logged in
+[2021.01.23-20.15.41:525][345]PIE: Play in editor total start time 0.109 seconds.
+[2021.01.23-20.15.48:441][603]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.01.23-20.15.48:441][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.15.48:441][603]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.01.23-20.15.48:441][603]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.15.48:443][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.15.48:450][603]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.01.23-20.15.48:450][603]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.01.23-20.15.48:450][603]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.01.23-20.15.48:450][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-20.15.48:458][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.15.48:495][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.23-20.15.48:496][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.23-20.15.48:497][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.23-20.15.48:509][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.15.48:516][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.01.23-20.15.48:547][604]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.23-20.16.00:880][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.01.23-20.16.22:366][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
