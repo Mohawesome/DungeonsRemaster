@@ -3736,3 +3736,16 @@ Script Stack (0 frames):
 [2021.02.14-13.34.34:938][991]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_Tornado1315214E4E1CC05A1C4158BC318B401F.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Mage/BP_Tornado.uasset'
 [2021.02.14-13.34.34:950][991]AssetCheck: New page: Asset Save: BP_Tornado
 [2021.02.14-13.34.34:951][991]LogContentValidation: Display: Validating Blueprint /Game/Main/Mage/BP_Tornado.BP_Tornado
+[2021.02.14-13.35.40:969][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.02.14-13.35.40:984][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.14-13.35.41:013][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.02.14-13.35.41:090][482]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Level1EA7C8CB7426DD80C2B0E69845DECF55E.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Maps/Level1.umap'
+[2021.02.14-13.35.41:110][482]LogFileHelpers: Saving map 'Level1' took 0.126
+[2021.02.14-13.35.41:161][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Mage/Player_Mage" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Mage/Player_Mage.uasset" SILENT=true
+[2021.02.14-13.35.41:229][482]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Mage7B726D9B46F01BDFFF0928BE913EFDD2.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Mage/Player_Mage.uasset'
+[2021.02.14-13.35.41:230][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Mage/P_ky_fireStorm" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Mage/P_ky_fireStorm.uasset" SILENT=true
+[2021.02.14-13.35.41:261][482]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/P_ky_fireStormF984C7F846D674D12DED559C8F150E1B.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Mage/P_ky_fireStorm.uasset'
+[2021.02.14-13.35.41:276][482]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-13.35.41:276][482]LogContentValidation: Display: Validating Blueprint /Game/Main/Mage/Player_Mage.Player_Mage
+[2021.02.14-13.35.41:276][482]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.02.14-13.35.41:276][482]LogContentValidation: Display: Validating ParticleSystem /Game/Main/Mage/P_ky_fireStorm.P_ky_fireStorm
