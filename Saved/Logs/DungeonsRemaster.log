@@ -1933,3 +1933,154 @@ Script call stack:
 [2021.04.10-11.07.56:279][277]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2021.04.10-11.08.28:210][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
 [2021.04.10-11.08.36:858][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.04.10-11.25.51:979][151]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.04.10-11.25.52:140][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.04.10-11.25.52:560][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.04.10-11.25.52:638][194]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBaseCE758A384502A1A0E38D9291C410B7F6.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.04.10-11.25.52:652][194]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.04.10-11.25.52:653][194]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.04.10-11.26.11:106][780]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.04.10-11.26.11:121][780]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.04.10-11.26.12:245][803]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.04.10-11.26.12:249][803]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.04.10-11.26.16:993][ 51]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_VendorWidget
+[2021.04.10-11.26.17:026][ 51]LogMetaData: Removing '/Game/Main/Vendor/W_VendorWidget.SKEL_W_VendorWidget_C' ref from Metadata '/Game/Main/Vendor/NewWidgetBlueprint.PackageMetaData'
+[2021.04.10-11.26.17:026][ 51]LogMetaData: Removing '/Game/Main/Vendor/W_VendorWidget.W_VendorWidget_C' ref from Metadata '/Game/Main/Vendor/NewWidgetBlueprint.PackageMetaData'
+[2021.04.10-11.26.17:026][ 51]LogMetaData: Removing '/Game/Main/Vendor/W_VendorWidget.W_VendorWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/Vendor/NewWidgetBlueprint.PackageMetaData'
+[2021.04.10-11.26.17:026][ 51]LogMetaData: Removing '/Game/Main/Vendor/W_VendorWidget.W_VendorWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/Vendor/NewWidgetBlueprint.PackageMetaData'
+[2021.04.10-11.26.17:026][ 51]LogMetaData: Removing '/Game/Main/Vendor/W_VendorWidget.W_VendorWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/Vendor/NewWidgetBlueprint.PackageMetaData'
+[2021.04.10-11.26.17:039][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.26.17:042][ 51]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetBDB9F65F4CE746C5976C6C9F86BB1F1C.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.26.17:191][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.04.10-11.26.17:235][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.10-11.26.17:267][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.10-11.26.17:366][ 51]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.26.17:366][ 51]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.26.19:893][182]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.04.10-11.26.19:908][182]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.04.10-11.26.23:540][383]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_VendorItem
+[2021.04.10-11.26.23:544][383]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.04.10-11.26.28:514][489]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.26.51:458][545]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.27.06:309][798]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.27.06:405][798]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2021.04.10-11.27.07:027][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.27.07:030][862]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetA2BC7453431429B11178C798D8962911.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.27.07:044][862]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.27.07:044][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.27.30:622][288]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.27.30:693][288]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.04.10-11.27.31:410][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.27.31:414][359]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetB215DDC841630C4D6FA14EB6A51A782A.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.27.31:428][359]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.27.31:428][359]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.27.46:088][899]LogSlate: Took 0.051209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.04.10-11.28.38:881][241]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.28.38:946][241]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.04.10-11.28.39:706][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.28.39:711][323]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget538A9C31439B8C3526E4E58E161F7080.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.28.39:723][323]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.28.39:723][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.29.13:443][289]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.29.13:508][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.04.10-11.29.14:018][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.29.14:024][338]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetC19D52E244749B7DCAB1E7A4DE585E25.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.29.14:036][338]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.29.14:036][338]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.29.35:280][622]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.29.35:345][622]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2021.04.10-11.29.35:882][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.29.35:887][678]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget013A2E2B4EC23246391B40ACDB840B2C.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.29.35:899][678]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.29.35:899][678]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.30.44:697][235]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.30.44:766][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.04.10-11.30.45:543][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.30.45:548][314]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget4F2EDE324755516F8F98D48AE55913A0.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.30.45:560][314]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.30.45:560][314]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.32.22:301][769]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.32.27:900][ 81]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.32.33:059][684]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.32.38:186][279]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.33.29:202][982]LogEditorTransaction: Undo Duplicate selection
+[2021.04.10-11.34.22:865][374]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.34.22:941][374]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2021.04.10-11.34.23:544][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.34.23:551][434]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget90AE4DE045C1531204EB12A4C2F7777A.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.34.23:567][434]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.34.23:567][434]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.34.34:859][542]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.34.34:923][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.04.10-11.34.35:421][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.34.35:427][589]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget0261C274459C51D77D5A5092CE48D0B2.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.34.35:442][589]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.34.35:442][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.34.51:310][939]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.35.11:084][830]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.35.11:139][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.04.10-11.35.14:600][228]LogEditorTransaction: Undo Edit A
+[2021.04.10-11.35.16:336][403]LogEditorTransaction: Undo Add Widget
+[2021.04.10-11.35.19:531][780]LogEditorTransaction: Redo Add Widget
+[2021.04.10-11.35.38:511][443]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.35.38:564][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.04.10-11.35.39:685][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.35.39:689][566]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItemB9071988482EB6BF78C5E98FC4946081.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.35.39:706][566]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.35.39:706][566]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.35.43:872][ 54]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.35.43:941][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.04.10-11.35.44:501][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.35.44:505][110]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItem5595343D4B4980A9E5F7699109920900.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.35.44:523][110]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.35.44:523][110]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.36.08:956][729]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.36.28:272][  4]LogEditorTransaction: Undo Edit Specified Color
+[2021.04.10-11.36.28:617][ 25]LogEditorTransaction: Undo Rename Widget
+[2021.04.10-11.36.28:942][ 52]LogEditorTransaction: Undo Add Widget
+[2021.04.10-11.36.31:220][320]LogEditorTransaction: Redo Add Widget
+[2021.04.10-11.36.52:168][773]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.36.57:443][392]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.37.00:946][795]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.37.04:436][200]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.10-11.37.14:984][900]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.37.15:054][900]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2021.04.10-11.37.15:759][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.37.15:763][969]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItem97CE6B054F099BF1E50BAB9EE49CF1BC.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.37.15:778][969]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.37.15:778][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.38.40:063][409]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.38.40:137][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.04.10-11.38.40:729][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.38.40:734][468]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItemBC2DE0CE47DD24C00805AAB432256619.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.38.40:750][468]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.38.40:750][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.38.51:190][679]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.38.51:260][679]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.04.10-11.38.52:248][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.38.52:253][793]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItem1F1B8A9547EE061A77FF87B03377FCC2.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.38.52:269][793]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.38.52:269][793]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.39.02:902][888]BlueprintLog: New page: Compile W_VendorItem
+[2021.04.10-11.39.02:978][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.04.10-11.39.03:452][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.39.03:457][933]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItem3DEA63E14646039AEE2D6CA0F847CE0F.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.39.03:471][933]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.39.03:471][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.39.09:215][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorItem" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset" SILENT=true
+[2021.04.10-11.39.09:221][ 34]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorItem6505826E47EBD92136EF069148B05F3E.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorItem.uasset'
+[2021.04.10-11.39.09:236][ 34]AssetCheck: New page: Asset Save: W_VendorItem
+[2021.04.10-11.39.09:236][ 34]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorItem.W_VendorItem
+[2021.04.10-11.39.33:229][ 72]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.39.33:291][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.04.10-11.39.33:729][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.39.33:736][113]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetF672B9B842846741F0B211BDE06B96CF.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.39.33:756][113]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.39.33:756][113]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.39.41:863][756]BlueprintLog: New page: Compile W_VendorWidget
+[2021.04.10-11.39.41:939][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.04.10-11.39.42:598][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.04.10-11.39.42:604][822]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget490B663C474536204806ABB6F7E67951.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.04.10-11.39.42:617][822]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.04.10-11.39.42:617][822]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.04.10-11.39.47:958][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
