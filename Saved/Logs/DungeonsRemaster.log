@@ -2471,3 +2471,749 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.01-16.01.37:468][486]LogPlayLevel: Display: Destroying online subsystem :Context_41
 [2021.05.01-16.01.43:636][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
 [2021.05.01-16.01.57:585][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.05.01-16.03.20:916][ 38]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.03.21:027][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.05.01-16.03.21:560][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.03.21:722][ 75]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin32156607476E11662C39FC8DFF9F351C.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.03.21:738][ 75]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.03.21:738][ 75]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.03.51:178][623]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.03.51:287][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.05.01-16.03.52:418][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.03.52:575][736]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin61D3BC084E65228B94A928B39B939ABC.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.03.52:590][736]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.03.52:590][736]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.05.00:046][943]LogEditorTransaction: Undo Move Node
+[2021.05.01-16.05.15:521][683]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.05.15:628][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.05.01-16.05.16:814][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.05.16:975][806]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin583BE24E46684FFCDB862F96B750D362.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.05.16:996][806]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.05.16:996][806]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.05.35:107][663]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.05.35:219][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.05.01-16.05.35:770][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.05.35:940][716]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin46D441FE494CC60FF319569F7AD6BC2D.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.05.35:956][716]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.05.35:956][716]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.06.08:139][418]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.06.08:250][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.05.01-16.06.08:864][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.06.09:028][476]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin0CF1AF784F47CC638EDB0980CFF3EB46.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.06.09:048][476]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.06.09:048][476]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.06.53:936][910]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.06.54:171][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.05.01-16.06.54:550][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.06.54:707][940]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBaseC655505441769CABBFCCCB8C3EF382B1.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.06.54:725][940]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.06.54:725][940]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.07.21:298][250]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.07.21:504][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.05.01-16.07.21:892][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.07.22:046][284]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBaseD7117C3C4AA620D517F8C085A928AB10.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.07.22:064][284]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.07.22:064][284]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.07.44:214][  0]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.01-16.07.44:222][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.01-16.07.44:222][  0]PIE: New page: PIE session: Level1 (1 May 2021, 18:07:44)
+[2021.05.01-16.07.44:222][  0]LogPlayLevel: Creating play world package: /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.07.44:244][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021474s)
+[2021.05.01-16.07.44:245][  0]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.07.44:245][  0]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2021.05.01-16.07.44:245][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/DungeonLevels/Level1.Level1 to /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 (0.022665s)
+[2021.05.01-16.07.44:290][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.05.01-16.07.44:294][  0]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.05.01-16.07.44:309][  0]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.07.44
+[2021.05.01-16.07.44:310][  0]LogWorld: Bringing up level for play took: 0.015869
+[2021.05.01-16.07.44:311][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.01-16.07.44:311][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.01-16.07.44:311][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.01-16.07.44:311][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.01-16.07.44:311][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.07.44:311][  0]LogNet: GameNetDriver IpNetDriver_22 IpNetDriver listening on port 17777
+[2021.05.01-16.07.44:312][  0]PIE: Server logged in
+[2021.05.01-16.07.44:312][  0]PIE: Play in editor total start time 0.091 seconds.
+[2021.05.01-16.07.44:313][  0]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.01-16.07.44:313][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.01-16.07.44:313][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.01-16.07.44:314][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.01-16.07.44:314][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.01-16.07.44:317][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.01-16.07.44:317][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.01-16.07.44:326][  0]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.05.01-16.07.44:326][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.01-16.07.44:326][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.01-16.07.44:326][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.01-16.07.44:327][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.01-16.07.44:327][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.01-16.07.44:327][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.01-16.07.44:340][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.01-16.07.44:340][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.01-16.07.44:340][  0]LogInit: FAudioDevice initialized.
+[2021.05.01-16.07.44:340][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2021.05.01-16.07.44:345][  0]LogNet: Browse: 127.0.0.1:17777/Game/Main/DungeonLevels/Level1
+[2021.05.01-16.07.44:346][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.05.01-16.07.44:346][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.05.01-16.07.44:346][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.07.44:346][  0]LogNet: Game client on port 17777, rate 500000
+[2021.05.01-16.07.44:346][  0]PIE: Client logged in
+[2021.05.01-16.07.44:347][  0]PIE: Play in editor total start time 0.126 seconds.
+[2021.05.01-16.07.44:348][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.05.01-16.07.45:362][117]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54221
+[2021.05.01-16.07.45:362][117]LogHandshake: SendConnectChallenge. Timestamp: 1.160841, Cookie: 210014124194241010026025049076098243095047092085149040144002
+[2021.05.01-16.07.45:362][117]LogHandshake: SendChallengeResponse. Timestamp: 1.160841, Cookie: 210014124194241010026025049076098243095047092085149040144002
+[2021.05.01-16.07.45:370][118]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54221
+[2021.05.01-16.07.45:370][118]LogHandshake: SendChallengeAck. InCookie: 210014124194241010026025049076098243095047092085149040144002
+[2021.05.01-16.07.45:370][118]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54221
+[2021.05.01-16.07.45:370][118]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.07.45:370][118]LogNet: NotifyAcceptedConnection: Name: Level1, TimeStamp: 05/01/21 17:07:45, [UNetConnection] RemoteAddr: 127.0.0.1:54221, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.07.45:370][118]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54221, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.07.45:371][118]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: PendingNetDriver IpNetDriver_23, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.07.45:378][119]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1: Accepted
+[2021.05.01-16.07.45:378][119]LogNet: Remote platform little endian=1
+[2021.05.01-16.07.45:378][119]LogNet: This platform little endian=1
+[2021.05.01-16.07.45:379][119]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.05.01-16.07.45:387][120]LogNet: Login request: ?Name=Carbonite-C265AFA54E05B682BBC5058AC8EE1F15 userId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15 platform: NULL
+[2021.05.01-16.07.45:387][120]LogNet: Welcomed by server (Level: /Game/Main/DungeonLevels/UEDPIE_0_Level1, Game: /Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C)
+[2021.05.01-16.07.45:388][120]LogLoad: LoadMap: 127.0.0.1:17777/Game/Main/DungeonLevels/UEDPIE_0_Level1?game=/Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C
+[2021.05.01-16.07.45:388][120]LogWorld: BeginTearingDown for /Temp/Untitled_12
+[2021.05.01-16.07.45:388][120]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.07.45:388][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.07.45:425][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.01-16.07.45:428][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.01-16.07.45:448][120]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2021.05.01-16.07.45:449][120]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.07.45:462][120]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_1_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.07.45
+[2021.05.01-16.07.45:462][120]LogWorld: Bringing up level for play took: 0.012460
+[2021.05.01-16.07.45:463][120]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.07.45:463][120]LogLoad: Took 0.075738 seconds to LoadMap(/Game/Main/DungeonLevels/UEDPIE_0_Level1)
+[2021.05.01-16.07.45:463][120]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.07.45:518][121]LogNet: Client netspeed is 50000
+[2021.05.01-16.07.45:518][121]LogNet: Join request: /Game/Main/DungeonLevels/Level1?Name=Carbonite-C265AFA54E05B682BBC5058AC8EE1F15?SplitscreenCount=1
+[2021.05.01-16.07.45:518][121]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.07.45:521][121]LogNet: Join succeeded: Carbonite-C265AFA54E
+[2021.05.01-16.07.45:586][125]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.07.46:936][242]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.01-16.07.48:377][353]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.07.48:377][353]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.01-16.07.48:377][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.01-16.07.49:467][436]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.07.50:256][496]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.07.51:099][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.07.52:415][661]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.07.54:362][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.07.54:362][807]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_1_Level1
+[2021.05.01-16.07.54:362][807]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.07.54:364][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.07.54:375][807]LogNet: World NetDriver shutdown IpNetDriver_23 [GameNetDriver]
+[2021.05.01-16.07.54:375][807]LogNet: DestroyNamedNetDriver IpNetDriver_23 [GameNetDriver]
+[2021.05.01-16.07.54:375][807]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15, Channels: 35, Time: 2021.05.01-16.07.54
+[2021.05.01-16.07.54:375][807]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15
+[2021.05.01-16.07.54:376][807]LogExit: GameNetDriver IpNetDriver_23 shut down
+[2021.05.01-16.07.54:376][807]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.07.54:377][807]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.07.54:378][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.07.54:381][807]LogNet: World NetDriver shutdown IpNetDriver_22 [GameNetDriver]
+[2021.05.01-16.07.54:381][807]LogNet: DestroyNamedNetDriver IpNetDriver_22 [GameNetDriver]
+[2021.05.01-16.07.54:381][807]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54221, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15
+[2021.05.01-16.07.54:381][807]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54221, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15, Channels: 35, Time: 2021.05.01-16.07.54
+[2021.05.01-16.07.54:381][807]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54221, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-C265AFA54E05B682BBC5058AC8EE1F15
+[2021.05.01-16.07.54:381][807]LogExit: GameNetDriver IpNetDriver_22 shut down
+[2021.05.01-16.07.54:382][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.01-16.07.54:398][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.07.54:438][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.07.54:438][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.07.54:439][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.07.54:462][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.01-16.07.54:492][808]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.05.01-16.07.54:493][808]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.05.01-16.07.57:041][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.05.01-16.08.48:085][638]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.08.48:197][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.01-16.08.48:704][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.08.48:885][678]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinF08DCEC747B4023D4812E186A895AB2B.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.08.48:901][678]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.08.48:901][678]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.09.23:929][564]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.09.24:040][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.05.01-16.09.24:716][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.09.24:875][622]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin3D7B54EF42F73F4AB2978CA1638EEBA5.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.09.24:891][622]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.09.24:891][622]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.09.30:816][293]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.09.30:927][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.05.01-16.09.31:495][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.09.31:655][336]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin8163FEDF4A2357C444A79289285D67FE.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.09.31:669][336]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.09.31:669][336]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.09.35:961][839]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.09.36:071][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.05.01-16.09.36:502][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.09.36:662][868]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin839093104DDC7FC62B34A1ADE9BAE516.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.09.36:675][868]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.09.36:676][868]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.11.17:090][657]LogEditorTransaction: Undo Move Nodes
+[2021.05.01-16.11.18:361][761]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.11.18:473][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.05.01-16.11.18:970][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.11.19:135][806]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin4331FCC1420E0023CA6FC19086D24745.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.11.19:156][806]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.11.19:156][806]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.11.41:615][359]LogEditorTransaction: Undo Change Text Pin Value
+[2021.05.01-16.11.42:878][470]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.11.42:986][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.05.01-16.11.43:531][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.11.43:700][514]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin4FFC407E4BA2B644F402B2B960F96740.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.11.43:716][514]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.11.43:716][514]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.12.21:990][600]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.01-16.12.21:998][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.01-16.12.21:998][600]PIE: New page: PIE session: Level1 (1 May 2021, 18:12:21)
+[2021.05.01-16.12.22:021][600]LogPlayLevel: Creating play world package: /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.12.22:040][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019624s)
+[2021.05.01-16.12.22:041][600]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.12.22:041][600]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2021.05.01-16.12.22:042][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/DungeonLevels/Level1.Level1 to /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 (0.020806s)
+[2021.05.01-16.12.22:083][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.05.01-16.12.22:087][600]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.05.01-16.12.22:101][600]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.12.22
+[2021.05.01-16.12.22:103][600]LogWorld: Bringing up level for play took: 0.015605
+[2021.05.01-16.12.22:103][600]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.01-16.12.22:103][600]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.01-16.12.22:103][600]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.01-16.12.22:103][600]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.01-16.12.22:103][600]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.22:103][600]LogNet: GameNetDriver IpNetDriver_24 IpNetDriver listening on port 17777
+[2021.05.01-16.12.22:104][600]PIE: Server logged in
+[2021.05.01-16.12.22:104][600]PIE: Play in editor total start time 0.107 seconds.
+[2021.05.01-16.12.22:105][600]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.01-16.12.22:106][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.01-16.12.22:106][600]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.01-16.12.22:106][600]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.01-16.12.22:110][600]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.01-16.12.22:110][600]LogAudioMixer: Display: 1: FrontRight
+[2021.05.01-16.12.22:119][600]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.05.01-16.12.22:120][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.01-16.12.22:120][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.01-16.12.22:120][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.01-16.12.22:120][600]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.01-16.12.22:120][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.01-16.12.22:120][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.01-16.12.22:133][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.01-16.12.22:133][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.01-16.12.22:133][600]LogInit: FAudioDevice initialized.
+[2021.05.01-16.12.22:133][600]LogAudio: Display: Audio Device (ID: 14) registered with world 'Untitled'.
+[2021.05.01-16.12.22:139][600]LogNet: Browse: 127.0.0.1:17777/Game/Main/DungeonLevels/Level1
+[2021.05.01-16.12.22:139][600]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.05.01-16.12.22:139][600]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.05.01-16.12.22:139][600]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.22:139][600]LogNet: Game client on port 17777, rate 500000
+[2021.05.01-16.12.22:139][600]PIE: Client logged in
+[2021.05.01-16.12.22:140][600]PIE: Play in editor total start time 0.143 seconds.
+[2021.05.01-16.12.22:142][600]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.05.01-16.12.23:151][717]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49303
+[2021.05.01-16.12.23:151][717]LogHandshake: SendConnectChallenge. Timestamp: 1.174777, Cookie: 068232169138173244199173098143135083236084206167080045035151
+[2021.05.01-16.12.23:152][717]LogHandshake: SendChallengeResponse. Timestamp: 1.174777, Cookie: 068232169138173244199173098143135083236084206167080045035151
+[2021.05.01-16.12.23:160][718]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49303
+[2021.05.01-16.12.23:160][718]LogHandshake: SendChallengeAck. InCookie: 068232169138173244199173098143135083236084206167080045035151
+[2021.05.01-16.12.23:160][718]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49303
+[2021.05.01-16.12.23:160][718]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.23:160][718]LogNet: NotifyAcceptedConnection: Name: Level1, TimeStamp: 05/01/21 17:12:23, [UNetConnection] RemoteAddr: 127.0.0.1:49303, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.23:160][718]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49303, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.23:161][718]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: PendingNetDriver IpNetDriver_25, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.23:168][719]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1: Accepted
+[2021.05.01-16.12.23:168][719]LogNet: Remote platform little endian=1
+[2021.05.01-16.12.23:168][719]LogNet: This platform little endian=1
+[2021.05.01-16.12.23:169][719]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.05.01-16.12.23:176][720]LogNet: Login request: ?Name=Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE userId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE platform: NULL
+[2021.05.01-16.12.23:177][720]LogNet: Welcomed by server (Level: /Game/Main/DungeonLevels/UEDPIE_0_Level1, Game: /Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C)
+[2021.05.01-16.12.23:177][720]LogLoad: LoadMap: 127.0.0.1:17777/Game/Main/DungeonLevels/UEDPIE_0_Level1?game=/Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C
+[2021.05.01-16.12.23:177][720]LogWorld: BeginTearingDown for /Temp/Untitled_13
+[2021.05.01-16.12.23:177][720]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.23:177][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.23:214][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.01-16.12.23:218][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.01-16.12.23:238][720]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2021.05.01-16.12.23:239][720]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.12.23:251][720]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_1_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.12.23
+[2021.05.01-16.12.23:252][720]LogWorld: Bringing up level for play took: 0.012406
+[2021.05.01-16.12.23:252][720]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.12.23:253][720]LogLoad: Took 0.075567 seconds to LoadMap(/Game/Main/DungeonLevels/UEDPIE_0_Level1)
+[2021.05.01-16.12.23:253][720]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.12.23:300][721]LogNet: Client netspeed is 50000
+[2021.05.01-16.12.23:300][721]LogNet: Join request: /Game/Main/DungeonLevels/Level1?Name=Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE?SplitscreenCount=1
+[2021.05.01-16.12.23:300][721]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.12.23:303][721]LogNet: Join succeeded: Carbonite-7A5C4ECC44
+[2021.05.01-16.12.23:356][725]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.12.24:727][837]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.01-16.12.25:994][934]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.25:994][934]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.01-16.12.25:994][934]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.01-16.12.27:064][  6]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.27:514][ 38]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.27:966][ 70]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.29:457][175]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.30:672][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.12.30:672][259]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_1_Level1
+[2021.05.01-16.12.30:672][259]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.30:674][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.30:682][259]LogNet: World NetDriver shutdown IpNetDriver_25 [GameNetDriver]
+[2021.05.01-16.12.30:682][259]LogNet: DestroyNamedNetDriver IpNetDriver_25 [GameNetDriver]
+[2021.05.01-16.12.30:683][259]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE, Channels: 35, Time: 2021.05.01-16.12.30
+[2021.05.01-16.12.30:683][259]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE
+[2021.05.01-16.12.30:683][259]LogExit: GameNetDriver IpNetDriver_25 shut down
+[2021.05.01-16.12.30:683][259]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.12.30:684][259]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.30:685][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.30:687][259]LogNet: World NetDriver shutdown IpNetDriver_24 [GameNetDriver]
+[2021.05.01-16.12.30:688][259]LogNet: DestroyNamedNetDriver IpNetDriver_24 [GameNetDriver]
+[2021.05.01-16.12.30:688][259]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49303, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE
+[2021.05.01-16.12.30:688][259]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49303, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE, Channels: 35, Time: 2021.05.01-16.12.30
+[2021.05.01-16.12.30:688][259]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49303, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-7A5C4ECC44208B4A35D1EDB4A6A7FFCE
+[2021.05.01-16.12.30:688][259]LogExit: GameNetDriver IpNetDriver_24 shut down
+[2021.05.01-16.12.30:689][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.01-16.12.30:705][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.30:746][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.12.30:747][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.12.30:748][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.12.30:769][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.01-16.12.30:799][260]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.05.01-16.12.30:799][260]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.05.01-16.12.35:522][501]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.01-16.12.35:530][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.01-16.12.35:530][501]PIE: New page: PIE session: Level1 (1 May 2021, 18:12:35)
+[2021.05.01-16.12.35:530][501]LogPlayLevel: Creating play world package: /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.12.35:550][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020068s)
+[2021.05.01-16.12.35:551][501]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.12.35:551][501]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.05.01-16.12.35:551][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/DungeonLevels/Level1.Level1 to /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 (0.021418s)
+[2021.05.01-16.12.35:590][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.05.01-16.12.35:592][501]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.05.01-16.12.35:607][501]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.12.35
+[2021.05.01-16.12.35:608][501]LogWorld: Bringing up level for play took: 0.015441
+[2021.05.01-16.12.35:609][501]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.01-16.12.35:609][501]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.01-16.12.35:609][501]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.01-16.12.35:609][501]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.01-16.12.35:609][501]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.35:609][501]LogNet: GameNetDriver IpNetDriver_26 IpNetDriver listening on port 17777
+[2021.05.01-16.12.35:610][501]PIE: Server logged in
+[2021.05.01-16.12.35:610][501]PIE: Play in editor total start time 0.081 seconds.
+[2021.05.01-16.12.35:611][501]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.01-16.12.35:611][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.01-16.12.35:611][501]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.01-16.12.35:611][501]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.01-16.12.35:615][501]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.01-16.12.35:615][501]LogAudioMixer: Display: 1: FrontRight
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.01-16.12.35:624][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.01-16.12.35:624][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.01-16.12.35:636][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.01-16.12.35:636][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.01-16.12.35:636][501]LogInit: FAudioDevice initialized.
+[2021.05.01-16.12.35:636][501]LogAudio: Display: Audio Device (ID: 15) registered with world 'Untitled'.
+[2021.05.01-16.12.35:642][501]LogNet: Browse: 127.0.0.1:17777/Game/Main/DungeonLevels/Level1
+[2021.05.01-16.12.35:643][501]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.05.01-16.12.35:643][501]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.05.01-16.12.35:643][501]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.35:643][501]LogNet: Game client on port 17777, rate 500000
+[2021.05.01-16.12.35:643][501]PIE: Client logged in
+[2021.05.01-16.12.35:643][501]PIE: Play in editor total start time 0.115 seconds.
+[2021.05.01-16.12.35:645][501]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.05.01-16.12.36:665][619]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49304
+[2021.05.01-16.12.36:665][619]LogHandshake: SendConnectChallenge. Timestamp: 1.165308, Cookie: 158068252085238214207161153174234216028212062075096000115021
+[2021.05.01-16.12.36:665][619]LogHandshake: SendChallengeResponse. Timestamp: 1.165308, Cookie: 158068252085238214207161153174234216028212062075096000115021
+[2021.05.01-16.12.36:673][620]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49304
+[2021.05.01-16.12.36:673][620]LogHandshake: SendChallengeAck. InCookie: 158068252085238214207161153174234216028212062075096000115021
+[2021.05.01-16.12.36:673][620]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49304
+[2021.05.01-16.12.36:673][620]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.12.36:673][620]LogNet: NotifyAcceptedConnection: Name: Level1, TimeStamp: 05/01/21 17:12:36, [UNetConnection] RemoteAddr: 127.0.0.1:49304, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.36:673][620]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49304, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.36:674][620]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_26, Driver: PendingNetDriver IpNetDriver_27, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.12.36:681][621]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1: Accepted
+[2021.05.01-16.12.36:681][621]LogNet: Remote platform little endian=1
+[2021.05.01-16.12.36:681][621]LogNet: This platform little endian=1
+[2021.05.01-16.12.36:682][621]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.05.01-16.12.36:690][622]LogNet: Login request: ?Name=Carbonite-645725AA40BEB6A13FF9239372830CF2 userId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2 platform: NULL
+[2021.05.01-16.12.36:691][622]LogNet: Welcomed by server (Level: /Game/Main/DungeonLevels/UEDPIE_0_Level1, Game: /Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C)
+[2021.05.01-16.12.36:691][622]LogLoad: LoadMap: 127.0.0.1:17777/Game/Main/DungeonLevels/UEDPIE_0_Level1?game=/Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C
+[2021.05.01-16.12.36:691][622]LogWorld: BeginTearingDown for /Temp/Untitled_14
+[2021.05.01-16.12.36:691][622]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.36:691][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.36:728][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.01-16.12.36:732][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.05.01-16.12.36:752][622]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2021.05.01-16.12.36:753][622]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.12.36:766][622]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_1_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.12.36
+[2021.05.01-16.12.36:766][622]LogWorld: Bringing up level for play took: 0.012361
+[2021.05.01-16.12.36:767][622]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.12.36:767][622]LogLoad: Took 0.076247 seconds to LoadMap(/Game/Main/DungeonLevels/UEDPIE_0_Level1)
+[2021.05.01-16.12.36:767][622]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.12.36:816][623]LogNet: Client netspeed is 50000
+[2021.05.01-16.12.36:816][623]LogNet: Join request: /Game/Main/DungeonLevels/Level1?Name=Carbonite-645725AA40BEB6A13FF9239372830CF2?SplitscreenCount=1
+[2021.05.01-16.12.36:816][623]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.12.36:819][623]LogNet: Join succeeded: Carbonite-645725AA40
+[2021.05.01-16.12.36:871][628]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.12.38:249][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.01-16.12.39:652][852]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.39:653][852]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.01-16.12.39:653][852]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.01-16.12.40:588][921]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.41:234][969]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.41:914][ 20]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.12.42:631][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.12.42:631][ 70]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_1_Level1
+[2021.05.01-16.12.42:632][ 70]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.42:634][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.42:639][ 70]LogNet: World NetDriver shutdown IpNetDriver_27 [GameNetDriver]
+[2021.05.01-16.12.42:639][ 70]LogNet: DestroyNamedNetDriver IpNetDriver_27 [GameNetDriver]
+[2021.05.01-16.12.42:639][ 70]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_27, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2, Channels: 35, Time: 2021.05.01-16.12.42
+[2021.05.01-16.12.42:639][ 70]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_27, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2
+[2021.05.01-16.12.42:639][ 70]LogExit: GameNetDriver IpNetDriver_27 shut down
+[2021.05.01-16.12.42:639][ 70]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.12.42:640][ 70]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.12.42:642][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.42:644][ 70]LogNet: World NetDriver shutdown IpNetDriver_26 [GameNetDriver]
+[2021.05.01-16.12.42:644][ 70]LogNet: DestroyNamedNetDriver IpNetDriver_26 [GameNetDriver]
+[2021.05.01-16.12.42:644][ 70]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49304, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2
+[2021.05.01-16.12.42:644][ 70]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49304, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2, Channels: 35, Time: 2021.05.01-16.12.42
+[2021.05.01-16.12.42:644][ 70]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49304, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-645725AA40BEB6A13FF9239372830CF2
+[2021.05.01-16.12.42:644][ 70]LogExit: GameNetDriver IpNetDriver_26 shut down
+[2021.05.01-16.12.42:645][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.01-16.12.42:660][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.12.42:700][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.12.42:701][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.12.42:702][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.12.42:723][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.01-16.12.42:747][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.05.01-16.12.42:747][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.05.01-16.12.56:211][242]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.05.01-16.13.45:528][502]BlueprintLog: New page: Compile W_VendorWidget
+[2021.05.01-16.13.45:727][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.05.01-16.13.46:073][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.05.01-16.13.46:086][536]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidgetDCC389664F6896F732692EB3948B425D.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.05.01-16.13.46:098][536]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.05.01-16.13.46:098][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.05.01-16.14.02:326][905]BlueprintLog: New page: Compile W_VendorWidget
+[2021.05.01-16.14.02:407][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.05.01-16.14.02:858][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Vendor/W_VendorWidget" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset" SILENT=true
+[2021.05.01-16.14.02:870][952]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/W_VendorWidget1620B2EC4B29D42AAC75958BFD473B79.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Vendor/W_VendorWidget.uasset'
+[2021.05.01-16.14.02:883][952]AssetCheck: New page: Asset Save: W_VendorWidget
+[2021.05.01-16.14.02:883][952]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Vendor/W_VendorWidget.W_VendorWidget
+[2021.05.01-16.14.52:156][227]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.14.52:375][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.05.01-16.14.52:846][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.14.53:004][269]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase628984F845B4E0277AA36DB01861BC65.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.14.53:017][269]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.14.53:017][269]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.15.51:174][705]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.15.51:394][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.01-16.15.51:676][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.15.51:839][724]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase76CF2060454A8DFE01229D99D3D393D2.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.15.51:853][724]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.15.51:853][724]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.16.02:827][950]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.16.03:047][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.05.01-16.16.03:550][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.16.03:705][996]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase6515F07741BFD09AB7A733808ADD056F.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.16.03:730][996]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.16.03:730][996]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.16.33:012][356]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.05.01-16.16.33:239][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.05.01-16.16.33:641][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_PlayerBase" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset" SILENT=true
+[2021.05.01-16.16.33:801][392]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/BP_PlayerBase6E4EC27B44ED18322670FAAEFA16808D.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/BP_PlayerBase.uasset'
+[2021.05.01-16.16.33:820][392]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.05.01-16.16.33:821][392]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_PlayerBase.BP_PlayerBase
+[2021.05.01-16.17.14:300][488]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.17.14:421][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.05.01-16.17.15:108][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.17.15:276][556]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin884269AD477A737754CCA0A4703AD690.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.17.15:290][556]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.17.15:290][556]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.18.08:877][732]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.18.08:995][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.05.01-16.18.09:651][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.18.09:818][797]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_PaladinEA2E449E4394B2BE510369855756319D.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.18.09:833][797]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.18.09:833][797]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.18.58:151][393]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.18.58:271][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.05.01-16.18.58:693][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.18.58:866][430]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin9833965340C85C6C580A9FA14ADB70AD.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.18.58:885][430]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.18.58:885][430]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.19.48:499][802]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.19.48:620][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.05.01-16.20.23:846][921]BlueprintLog: New page: Compile Player_Paladin
+[2021.05.01-16.20.23:966][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.05.01-16.20.24:563][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Paladin/Player_Paladin" FILE="C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset" SILENT=true
+[2021.05.01-16.20.24:743][977]LogSavePackage: Moving 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Saved/Player_Paladin39394C974B4244BA83ABB3834DE76888.tmp' to 'C:/Users/Mohammad/Documents/Unreal Projects/DungeonsRemaster/Content/Main/Paladin/Player_Paladin.uasset'
+[2021.05.01-16.20.24:761][977]AssetCheck: New page: Asset Save: Player_Paladin
+[2021.05.01-16.20.24:761][977]LogContentValidation: Display: Validating Blueprint /Game/Main/Paladin/Player_Paladin.Player_Paladin
+[2021.05.01-16.20.28:745][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.01-16.20.28:752][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.01-16.20.28:752][ 40]PIE: New page: PIE session: Level1 (1 May 2021, 18:20:28)
+[2021.05.01-16.20.28:752][ 40]LogPlayLevel: Creating play world package: /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.20.28:773][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020320s)
+[2021.05.01-16.20.28:774][ 40]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.20.28:774][ 40]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2021.05.01-16.20.28:774][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/DungeonLevels/Level1.Level1 to /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 (0.021491s)
+[2021.05.01-16.20.28:819][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.05.01-16.20.28:821][ 40]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.05.01-16.20.28:836][ 40]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.20.28
+[2021.05.01-16.20.28:838][ 40]LogWorld: Bringing up level for play took: 0.015660
+[2021.05.01-16.20.28:838][ 40]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.01-16.20.28:838][ 40]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.01-16.20.28:838][ 40]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.01-16.20.28:838][ 40]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.01-16.20.28:838][ 40]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.28:838][ 40]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2021.05.01-16.20.28:839][ 40]PIE: Server logged in
+[2021.05.01-16.20.28:839][ 40]PIE: Play in editor total start time 0.087 seconds.
+[2021.05.01-16.20.28:840][ 40]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.01-16.20.28:840][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.01-16.20.28:840][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.01-16.20.28:841][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.01-16.20.28:841][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.01-16.20.28:844][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.01-16.20.28:844][ 40]LogAudioMixer: Display: 1: FrontRight
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.01-16.20.28:853][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.01-16.20.28:866][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.01-16.20.28:866][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.01-16.20.28:866][ 40]LogInit: FAudioDevice initialized.
+[2021.05.01-16.20.28:866][ 40]LogAudio: Display: Audio Device (ID: 16) registered with world 'Untitled'.
+[2021.05.01-16.20.28:873][ 40]LogNet: Browse: 127.0.0.1:17777/Game/Main/DungeonLevels/Level1
+[2021.05.01-16.20.28:873][ 40]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.05.01-16.20.28:873][ 40]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.05.01-16.20.28:873][ 40]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.28:873][ 40]LogNet: Game client on port 17777, rate 500000
+[2021.05.01-16.20.28:873][ 40]PIE: Client logged in
+[2021.05.01-16.20.28:874][ 40]PIE: Play in editor total start time 0.122 seconds.
+[2021.05.01-16.20.28:876][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.05.01-16.20.29:914][ 87]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51245
+[2021.05.01-16.20.29:914][ 87]LogHandshake: SendConnectChallenge. Timestamp: 1.184508, Cookie: 093097074227078004087116006155073228109229025234205085187159
+[2021.05.01-16.20.29:915][ 87]LogHandshake: SendChallengeResponse. Timestamp: 1.184508, Cookie: 093097074227078004087116006155073228109229025234205085187159
+[2021.05.01-16.20.29:926][ 88]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51245
+[2021.05.01-16.20.29:926][ 88]LogHandshake: SendChallengeAck. InCookie: 093097074227078004087116006155073228109229025234205085187159
+[2021.05.01-16.20.29:926][ 88]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51245
+[2021.05.01-16.20.29:926][ 88]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.29:926][ 88]LogNet: NotifyAcceptedConnection: Name: Level1, TimeStamp: 05/01/21 17:20:29, [UNetConnection] RemoteAddr: 127.0.0.1:51245, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.29:926][ 88]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51245, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.29:927][ 88]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: PendingNetDriver IpNetDriver_29, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.29:957][ 89]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1: Accepted
+[2021.05.01-16.20.29:957][ 89]LogNet: Remote platform little endian=1
+[2021.05.01-16.20.29:957][ 89]LogNet: This platform little endian=1
+[2021.05.01-16.20.29:958][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.05.01-16.20.29:969][ 90]LogNet: Login request: ?Name=Carbonite-01F41B3F41B1A602A38BA09EB9332938 userId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938 platform: NULL
+[2021.05.01-16.20.29:970][ 90]LogNet: Welcomed by server (Level: /Game/Main/DungeonLevels/UEDPIE_0_Level1, Game: /Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C)
+[2021.05.01-16.20.29:970][ 90]LogLoad: LoadMap: 127.0.0.1:17777/Game/Main/DungeonLevels/UEDPIE_0_Level1?game=/Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C
+[2021.05.01-16.20.29:970][ 90]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2021.05.01-16.20.29:970][ 90]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.29:970][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.30:009][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.01-16.20.30:013][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.05.01-16.20.30:035][ 90]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level1'.
+[2021.05.01-16.20.30:035][ 90]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.20.30:048][ 90]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_1_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.20.30
+[2021.05.01-16.20.30:049][ 90]LogWorld: Bringing up level for play took: 0.012658
+[2021.05.01-16.20.30:050][ 90]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.20.30:050][ 90]LogLoad: Took 0.079539 seconds to LoadMap(/Game/Main/DungeonLevels/UEDPIE_0_Level1)
+[2021.05.01-16.20.30:050][ 90]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.20.30:102][ 91]LogNet: Client netspeed is 50000
+[2021.05.01-16.20.30:102][ 91]LogNet: Join request: /Game/Main/DungeonLevels/Level1?Name=Carbonite-01F41B3F41B1A602A38BA09EB9332938?SplitscreenCount=1
+[2021.05.01-16.20.30:102][ 91]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.20.30:105][ 91]LogNet: Join succeeded: Carbonite-01F41B3F41
+[2021.05.01-16.20.30:217][ 95]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.20.31:520][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.01-16.20.32:830][181]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.32:830][181]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.01-16.20.32:830][181]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.01-16.20.34:073][220]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.34:738][241]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.35:448][263]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.38:001][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.20.38:001][341]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_1_Level1
+[2021.05.01-16.20.38:001][341]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.38:003][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.38:019][341]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2021.05.01-16.20.38:019][341]LogNet: DestroyNamedNetDriver IpNetDriver_29 [GameNetDriver]
+[2021.05.01-16.20.38:019][341]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938, Channels: 35, Time: 2021.05.01-16.20.38
+[2021.05.01-16.20.38:019][341]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938
+[2021.05.01-16.20.38:019][341]LogExit: GameNetDriver IpNetDriver_29 shut down
+[2021.05.01-16.20.38:020][341]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.20.38:021][341]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.38:023][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.38:025][341]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2021.05.01-16.20.38:025][341]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2021.05.01-16.20.38:025][341]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51245, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938
+[2021.05.01-16.20.38:025][341]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51245, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938, Channels: 35, Time: 2021.05.01-16.20.38
+[2021.05.01-16.20.38:025][341]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51245, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-01F41B3F41B1A602A38BA09EB9332938
+[2021.05.01-16.20.38:025][341]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2021.05.01-16.20.38:027][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.01-16.20.38:042][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.38:086][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.20.38:086][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.20.38:087][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.20.38:109][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.01-16.20.38:138][342]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.05.01-16.20.38:138][342]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.05.01-16.20.39:773][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.01-16.20.39:781][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.01-16.20.39:781][424]PIE: New page: PIE session: Level1 (1 May 2021, 18:20:39)
+[2021.05.01-16.20.39:781][424]LogPlayLevel: Creating play world package: /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.20.39:801][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020477s)
+[2021.05.01-16.20.39:802][424]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.20.39:802][424]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2021.05.01-16.20.39:802][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/DungeonLevels/Level1.Level1 to /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 (0.021560s)
+[2021.05.01-16.20.39:845][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.05.01-16.20.39:846][424]LogLoad: Game class is 'GM_DungeonCrawler_C'
+[2021.05.01-16.20.39:861][424]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.20.39
+[2021.05.01-16.20.39:863][424]LogWorld: Bringing up level for play took: 0.015776
+[2021.05.01-16.20.39:863][424]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.05.01-16.20.39:863][424]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.05.01-16.20.39:863][424]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.05.01-16.20.39:863][424]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.05.01-16.20.39:863][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.39:863][424]LogNet: GameNetDriver IpNetDriver_30 IpNetDriver listening on port 17777
+[2021.05.01-16.20.39:864][424]PIE: Server logged in
+[2021.05.01-16.20.39:864][424]PIE: Play in editor total start time 0.084 seconds.
+[2021.05.01-16.20.39:865][424]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.01-16.20.39:865][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.01-16.20.39:865][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.01-16.20.39:866][424]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.01-16.20.39:866][424]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.01-16.20.39:869][424]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.01-16.20.39:869][424]LogAudioMixer: Display: 1: FrontRight
+[2021.05.01-16.20.39:877][424]LogAudioMixer: Display: Using Audio Device Creative Speakers (High Definition Audio Device)
+[2021.05.01-16.20.39:878][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.01-16.20.39:878][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.01-16.20.39:878][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.01-16.20.39:878][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.01-16.20.39:878][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.01-16.20.39:878][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.01-16.20.39:891][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.01-16.20.39:891][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.01-16.20.39:891][424]LogInit: FAudioDevice initialized.
+[2021.05.01-16.20.39:891][424]LogAudio: Display: Audio Device (ID: 17) registered with world 'Untitled'.
+[2021.05.01-16.20.39:900][424]LogNet: Browse: 127.0.0.1:17777/Game/Main/DungeonLevels/Level1
+[2021.05.01-16.20.39:901][424]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.05.01-16.20.39:901][424]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.05.01-16.20.39:901][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.39:901][424]LogNet: Game client on port 17777, rate 500000
+[2021.05.01-16.20.39:901][424]PIE: Client logged in
+[2021.05.01-16.20.39:902][424]PIE: Play in editor total start time 0.122 seconds.
+[2021.05.01-16.20.39:903][424]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.05.01-16.20.40:937][472]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51246
+[2021.05.01-16.20.40:938][472]LogHandshake: SendConnectChallenge. Timestamp: 1.180075, Cookie: 118011242048235093040237165114025005247025190219082022240087
+[2021.05.01-16.20.40:938][472]LogHandshake: SendChallengeResponse. Timestamp: 1.180075, Cookie: 118011242048235093040237165114025005247025190219082022240087
+[2021.05.01-16.20.40:969][473]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51246
+[2021.05.01-16.20.40:969][473]LogHandshake: SendChallengeAck. InCookie: 118011242048235093040237165114025005247025190219082022240087
+[2021.05.01-16.20.40:969][473]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51246
+[2021.05.01-16.20.40:969][473]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.05.01-16.20.40:969][473]LogNet: NotifyAcceptedConnection: Name: Level1, TimeStamp: 05/01/21 17:20:40, [UNetConnection] RemoteAddr: 127.0.0.1:51246, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.40:969][473]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51246, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.40:970][473]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: PendingNetDriver IpNetDriver_31, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.05.01-16.20.40:982][474]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Main/DungeonLevels/UEDPIE_0_Level1.Level1: Accepted
+[2021.05.01-16.20.40:982][474]LogNet: Remote platform little endian=1
+[2021.05.01-16.20.40:982][474]LogNet: This platform little endian=1
+[2021.05.01-16.20.40:982][474]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.05.01-16.20.41:013][475]LogNet: Login request: ?Name=Carbonite-83FBC1724861AF4DEC26F3918182ED90 userId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90 platform: NULL
+[2021.05.01-16.20.41:014][475]LogNet: Welcomed by server (Level: /Game/Main/DungeonLevels/UEDPIE_0_Level1, Game: /Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C)
+[2021.05.01-16.20.41:014][475]LogLoad: LoadMap: 127.0.0.1:17777/Game/Main/DungeonLevels/UEDPIE_0_Level1?game=/Game/Main/DungeonLevels/GM_DungeonCrawler.GM_DungeonCrawler_C
+[2021.05.01-16.20.41:014][475]LogWorld: BeginTearingDown for /Temp/Untitled_16
+[2021.05.01-16.20.41:014][475]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.41:014][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.41:055][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.01-16.20.41:059][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.05.01-16.20.41:080][475]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2021.05.01-16.20.41:081][475]LogAIModule: Creating AISystem for world Level1
+[2021.05.01-16.20.41:093][475]LogWorld: Bringing World /Game/Main/DungeonLevels/UEDPIE_1_Level1.Level1 up for play (max tick rate 0) at 2021.05.01-17.20.41
+[2021.05.01-16.20.41:094][475]LogWorld: Bringing up level for play took: 0.012331
+[2021.05.01-16.20.41:094][475]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.20.41:095][475]LogLoad: Took 0.080310 seconds to LoadMap(/Game/Main/DungeonLevels/UEDPIE_0_Level1)
+[2021.05.01-16.20.41:095][475]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.05.01-16.20.41:135][476]LogNet: Client netspeed is 50000
+[2021.05.01-16.20.41:135][476]LogNet: Join request: /Game/Main/DungeonLevels/Level1?Name=Carbonite-83FBC1724861AF4DEC26F3918182ED90?SplitscreenCount=1
+[2021.05.01-16.20.41:136][476]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.20.41:139][476]LogNet: Join succeeded: Carbonite-83FBC17248
+[2021.05.01-16.20.41:240][480]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.05.01-16.20.42:584][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.01-16.20.44:229][578]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.44:229][578]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.01-16.20.44:229][578]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.01-16.20.45:216][610]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.45:929][633]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.47:938][698]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.01-16.20.50:041][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.20.50:041][764]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_1_Level1
+[2021.05.01-16.20.50:042][764]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.50:043][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.50:048][764]LogNet: World NetDriver shutdown IpNetDriver_31 [GameNetDriver]
+[2021.05.01-16.20.50:048][764]LogNet: DestroyNamedNetDriver IpNetDriver_31 [GameNetDriver]
+[2021.05.01-16.20.50:048][764]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_31, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90, Channels: 35, Time: 2021.05.01-16.20.50
+[2021.05.01-16.20.50:048][764]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_31, IsServer: NO, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90
+[2021.05.01-16.20.50:049][764]LogExit: GameNetDriver IpNetDriver_31 shut down
+[2021.05.01-16.20.50:049][764]LogWorld: BeginTearingDown for /Game/Main/DungeonLevels/UEDPIE_0_Level1
+[2021.05.01-16.20.50:050][764]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.05.01-16.20.50:052][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.50:054][764]LogNet: World NetDriver shutdown IpNetDriver_30 [GameNetDriver]
+[2021.05.01-16.20.50:054][764]LogNet: DestroyNamedNetDriver IpNetDriver_30 [GameNetDriver]
+[2021.05.01-16.20.50:054][764]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51246, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90
+[2021.05.01-16.20.50:054][764]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51246, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90, Channels: 35, Time: 2021.05.01-16.20.50
+[2021.05.01-16.20.50:054][764]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51246, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: PC_DungeonController_C_0, Owner: PC_DungeonController_C_0, UniqueId: NULL:Carbonite-83FBC1724861AF4DEC26F3918182ED90
+[2021.05.01-16.20.50:054][764]LogExit: GameNetDriver IpNetDriver_30 shut down
+[2021.05.01-16.20.50:055][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.01-16.20.50:071][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.01-16.20.50:115][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.01-16.20.50:115][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.20.50:116][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.01-16.20.50:140][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.01-16.20.50:175][765]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.05.01-16.20.50:175][765]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.05.01-16.20.52:317][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.01-16.21.26:227][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.05.01-16.21.29:157][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.05.01-16.21.29:159][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/DungeonLevels/Level1' took 0.046
